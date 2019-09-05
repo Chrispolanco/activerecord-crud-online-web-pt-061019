@@ -55,7 +55,7 @@ end
 
 
 def can_find_the_first_item_from_the_database_using_id
-  Movie.find_by(id:1)
+  Movie.find_by(id: 1)
 end
 
 
